@@ -11,3 +11,11 @@ as ferramentas utilizadas para essa automação foram vscode, python, base de da
 3- definido fonte e tamanho da fonte 
 4- transferindo dados armazenados da planilha para o certificado em JPG(image)
 5- salvando cada cetificado com o indece e nome dos participantes na pasta. 
+
+
+# Proximo desafio 
+
+1- criar tela para interação 
+2- usar tela de interação para importar planilha excel
+3- tonar o app.py executavel 
+4- testar funcionalidade
