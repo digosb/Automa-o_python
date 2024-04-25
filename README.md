@@ -19,3 +19,7 @@ as ferramentas utilizadas para essa automação foram vscode, python, base de da
 2- usar tela de interação para importar planilha excel
 3- tonar o app.py executavel 
 4- testar funcionalidade
+
+# Problema reportado  
+
+1- o programa so gera certificado em lote, se por a caso precisar fazer apenas 1 certifico ou refazer algum certifico o programa nao me oferece essa opcao. neste caso teria que gerar uma nova planilha pra fazer esse servico.
